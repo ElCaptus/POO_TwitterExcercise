@@ -29,7 +29,7 @@ descrita. Se espera que entregue los siguientes productos.
 1. Diagrama de clases UML.
 2. Implementación en Java de la funcionalidad requerida.
 3. Implementar los tests (JUnit) que considere necesarios.
-
+-
 1. ![UML_twitter](/TwitterLikeUML.png)
 2. [Implementacion de ejercicio java](/main/java/ar/edu/unlp/info/oo2/practica1_ejercicio1/)
 3. [Implementacion de tests](/test/java/ar/edu/unlp/info/oo2/practica1_ejercicio1/)
